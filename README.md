@@ -1,6 +1,6 @@
 <p align="center">
 <a href="http://bing.jsfinder.cn/" target="_blank">
-<img src="https//xqimg.imedao.com/17356a573dac56a3fcbaa935.png!custom.jpg" alt="让我帮你必应一下">
+<img src="https://xqimg.imedao.com/17356a573dac56a3fcbaa935.png" alt="让我帮你必应一下">
 </a>
 </p>
 
