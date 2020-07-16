@@ -30,7 +30,7 @@
 ### 在线演示
 -----
 
-[http://tool.mkblog.cn/lmbtfy/](http://tool.mkblog.cn/lmbtfy/)
+[http://bing.jsfinder.cn/](http://bing.jsfinder.cn/)
 
 
 ### 相关项目
